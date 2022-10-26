@@ -1,0 +1,16 @@
+package ru.mirea.lab1;
+import java.util.Scanner;
+public class Mirea3 {
+public static void main(String[] args) {
+int[] numbers = new int[10];
+int i = 0;
+Scanner sc = new Scanner(System.in);
+String s1 = "Type stop to stop", s2;
+System.out.println(s1);
+while(i == 0){
+    s2 = sc.nextLine();
+    System.out.println(s2);
+
+}
+}
+}
